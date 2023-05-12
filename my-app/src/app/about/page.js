@@ -63,7 +63,7 @@ const AboutBlock = styled.div`
     align-items: center;
   }
   .contentArea {
-    background-color: white;
+    background-color: blue;
     width: 640px;
     padding: 30px 30px 30px 30px;
     margin: 20px 0 10px 0;
